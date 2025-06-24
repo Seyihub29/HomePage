@@ -1,0 +1,616 @@
+.body {
+  font-family:"Raleway", sans-serif;
+}
+
+.background {
+  background-image: url(./Images/a3f0f5d1a57be47a72acf51e6f1eaf1386171a07.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+  background-blend-mode: overlay;
+  background-color: #0007;
+}
+
+.bookverse {
+  width: 150px;
+  margin-left: -50px;
+}
+
+.nav {
+  margin-right: -50px;
+}
+
+.nav-item {
+  font-size: 20px;
+  /* margin-left: 100px; */
+}
+
+.nav-1 {
+  margin-left: 100px;
+}
+
+.nav-2 {
+  margin-left: 100px;
+}
+
+.d-flex {
+  gap: 70px;
+}
+
+nav{
+  display: flex;
+  justify-content: center;
+}
+
+.hero {
+  text-align: center;
+  color: #fff;
+  margin-top: 200px;
+}
+
+.Parent h1 {
+  text-align: center;
+  font-size: 36px;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 50px;
+}
+
+.Content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px;
+}
+
+.card1 {
+  background-image: url(./Images/image\ 16.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 80px;
+  width: 300px;
+  height: 200px;
+}
+
+.card2 {
+  background-image: url(./Images/image\ 20.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 80px;
+  width: 300px;
+  height: 200px;
+}
+
+.card3 {
+  background-image: url(./Images/image\ 9.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 80px;
+  width: 300px;
+  height: 200px;
+}
+
+.card4 {
+  background-image: url(./Images/image\ 10.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 80px;
+  width: 300px;
+  height: 200px;
+}
+
+.card5 {
+  background-image: url(./Images/image\ 18.png);
+  background-size: cover;
+  background-repeat: no-repeat; padding: 20px;
+  padding-top: 80px;
+  width: 300px;
+  height: 200px;
+}
+
+.card6 {
+  background-image: url(./Images/image\ 12.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 80px;
+  width: 300px;
+  height: 200px;
+}
+
+.card7 {
+  background-image: url(./Images/image\ 23.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 80px;
+  width: 300px;
+  height: 200px;
+}
+
+.card8 {
+  background-image: url(./Images/image\ 25.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 80px;
+  width: 300px;
+  height: 200px;
+}
+
+.Section h1 {
+  text-align: center;
+  font-size: 36px;
+  font-weight: 300;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 30px;
+}
+
+.Section span {
+  font-size: 25px;
+  font-family: Raleway;
+  color: #0087db;
+  /* margin-top: 30px; */
+}
+
+.Books {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  gap: 70px;
+}
+
+.Book-1 {
+  background-image: url(./Images/30rachel-khong-cover-jumbo\ 1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 80px;
+  width: 150px;
+  height: 241.46px;
+}
+
+.Book-1 h3 {
+  font-size: 16px;
+  font-family: Raleway;
+  margin-top: 155px;
+  text-align: center;
+}
+
+.Book-2 {
+  background-image: url(./Images/zita\ 1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 80px;
+  width: 150px;
+  height: 241.46px;
+}
+
+.Book-2 h3 {
+  font-size: 16px;
+  font-family: Raleway;
+  margin-top: 155px;
+  text-align: center;
+}
+
+.Book-3 {
+  background-image: url(./Images/max\ 1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 241.46px;
+}
+
+.Book-3 h3 {
+  font-size: 16px;
+  font-family: Raleway;
+  margin-top: 235px;
+  text-align: center;
+}
+
+.Book-4 {
+  background-image: url(./Images/dune\ 1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 241.46px;
+}
+
+.Book-4 h3 {
+  font-size: 16px;
+  font-family: Raleway;
+  margin-top: 235px;
+  text-align: center;
+}
+
+.Book-5 {
+  background-image: url(./Images/brave\ 1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 60px;
+  height: 240px;
+}
+
+.Book-5 h3 {
+  font-size: 16px;
+  font-family: Raleway;
+  margin-top: 235px;
+  text-align: center;
+}
+
+.Section2 h1 {
+  text-align: center;
+  font-size: 36px;
+  font-weight: 300;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 70px;
+}
+
+.Section2 span {
+  font-size: 25px;
+  font-family: Raleway;
+  color: #0087db;
+  /* margin-top: 30px; */
+}
+
+.Books-1 {
+  background-image: url(./Images/nora\ roberts\ 1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 80px;
+  width: 150px;
+  height: 241.46px;
+}
+
+.Books-1 h3 {
+  font-size: 16px;
+  font-family: Raleway;
+  margin-top: 155px;
+  text-align: center;
+}
+
+.Books-2 {
+  background-image: url(./Images/james\ rowlin\ 1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 80px;
+  width: 150px;
+  height: 241.46px;
+}
+
+.Books-2 h3 {
+  font-size: 16px;
+  font-family: Raleway;
+  margin-top: 155px;
+  text-align: center;
+}
+
+.Books-3 {
+  background-image: url(./Images/george\ martin\ 1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 241.46px;
+}
+
+.Books-3 h3 {
+  font-size: 16px;
+  font-family: Raleway;
+  margin-top: 235px;
+  text-align: center;
+}
+
+.Books-4 {
+  background-image: url(./Images/chip\ 1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 241.46px;
+}
+
+.Books-4 h3 {
+  font-size: 16px;
+  font-family: Raleway;
+  margin-top: 235px;
+  text-align: center;
+}
+
+.Books-5 {
+  background-image: url(./Images/chip\ 1\ \(1\).png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 241.46px;
+}
+
+.Books-5 h3 {
+  font-size: 16px;
+  font-family: Raleway;
+  margin-top: 235px;
+  text-align: center;
+}
+
+.Section3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  gap: 70px;
+}
+
+.Novel-1 {
+  background-image: url(./Images/atomic\ habits\ 1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 241.46px;
+}
+
+.Novel-1 h3 {
+  font-size: 16px;
+  font-family: Raleway;
+  margin-top: 235px;
+  text-align: center;
+}
+
+.Novel-2 {
+  background-image: url(./Images/shogun\ 1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 241.46px;
+}
+
+.Novel-2 h3 {
+  font-size: 16px;
+  font-family: Raleway;
+  margin-top: 235px;
+  text-align: center;
+}
+
+.Novel-3 {
+  background-image: url(./Images/diana-9781501169731_hr\ 1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 241.46px;
+}
+
+.Novel-3 h3 {
+  font-size: 16px;
+  font-family: Raleway;
+  margin-top: 235px;
+  text-align: center;
+}
+
+.Novel-4 {
+  background-image: url(./Images/little\ prince\ 1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 241.46px;
+}
+
+.Novel-4 h3 {
+  font-size: 16px;
+  font-family: Raleway;
+  margin-top: 235px;
+  text-align: center;
+}
+
+.Novel-5 {
+  background-image: url(./Images/Why\ you\ act.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 150px;
+  height: 241.46px;
+}
+
+.Novel-5 h3 {
+  font-size: 16px;
+  font-family: Raleway;
+  margin-top: 235px;
+  text-align: center;
+}
+
+.Section4 {
+  background-color: #F06D82;
+  width: 100%;
+  background-position: contain;
+  background-repeat: no-repeat;
+  padding: 50px 20px 10px 70px;
+  display: flex;
+  margin-top: 50px;
+  color: white;
+  gap: 50px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.Diverse h3 {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.Section5 h3 {
+  text-align: center;
+  font-size: 36px;
+  font-weight: 200;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 70px;
+}
+
+.Section5 span {
+  font-size: 25px;
+  font-family: Raleway;
+  color: #0087db;
+} 
+
+.Bookstores {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+  gap: 20px;
+}
+
+.E-card1 {
+  background-color: #F4F3F3;
+  width: 180px;
+  height: 300px
+}
+
+.E-card1 h3 {
+  font-size: 16px;
+  font-family: Raleway;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.E-card1 h5 {
+  font-size: 10px;
+  margin-top: 3px;
+  text-align: center;
+}
+
+.E-card1 p {
+  font-size: 10px;
+  text-align: center;
+}
+
+.E-card1 h6 {
+  font-size: 10px;
+  text-align: center;
+  color: #0087db;
+  margin-top: 10px;
+}
+
+.E-card2 {
+  background-color: #F4F3F3;
+  width: 180px;
+  height: 300px
+}
+
+.E-card2 h3 {
+  font-size: 16px;
+  font-family: Raleway;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.E-card2 h5 {
+  font-size: 10px;
+  margin-top: 3px;
+  text-align: center;
+}
+
+.E-card2 p {
+  font-size: 10px;
+  text-align: center;
+}
+
+.E-card2 h6 {
+  font-size: 10px;
+  text-align: center;
+  color: #0087db;
+  margin-top: 10px;
+}
+
+.E-card3 {
+  background-color: #F4F3F3;
+  width: 180px;
+  height: 300px
+}
+
+.E-card3 h3 {
+  font-size: 16px;
+  font-family: Raleway;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.E-card3 h5 {
+  font-size: 10px;
+  margin-top: 3px;
+  text-align: center;
+}
+
+.E-card3 p {
+  font-size: 10px;
+  text-align: center;
+}
+
+.E-card3 h6 {
+  font-size: 10px;
+  text-align: center;
+  color: #0087db;
+  margin-top: 10px;
+}
+
+.E-card4 {
+  background-color: #F4F3F3;
+  width: 180px;
+  height: 300px
+}
+
+.E-card4 h3 {
+  font-size: 16px;
+  font-family: Raleway;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.E-card4 h5 {
+  font-size: 10px;
+  margin-top: 3px;
+  text-align: center;
+}
+
+.E-card4 p {
+  font-size: 10px;
+  text-align: center;
+}
+
+.E-card4 h6 {
+  font-size: 10px;
+  text-align: center;
+  color: #0087db;
+  margin-top: 10px;
+}
+
+.footer-div {
+  width: 100%;
+  height: 300px;
+  background-color: #F06D82;
+  background-image: url(./Images/Rectangle\ 80.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.footer-div svg {
+  width: 100%;
+  position: absolute;
+  bottom: -189px;
+  right: 0;
+}
+
+.footer-div2 {
+  background-color: #1d1213;
+  width: 100%;
+  height: 400px;
+  margin-top: 30px;
+}
+
+.footer-div2.div1 {
+  width: 58%;
+}
+
+.footer-div2 ul li:hover {
+  color: #F06D82;
+  text-decoration: underline;
+}
+
+.footer-div2.div2 {
+  width: 65%;
+  gap: 250px;
+}
